@@ -15,13 +15,13 @@ local camera = game.Workspace.CurrentCamera
 
 library.theme = {
     fontsize = 17,
-    font = Enum.Font.Code,
+    font = Enum.Font.GothamBold,
     background = "rbxassetid://6880496154",
-    backgroundcolor = Color3.fromRGB(20, 20, 20),
+    backgroundcolor = Color3.fromRGB(255,182,193),
     tabstextcolor = Color3.fromRGB(230, 230, 230),
     bordercolor = Color3.fromRGB(60, 60, 60),
     accentcolor = Color3.fromRGB(255,182,193),
-    accentcolor2 = Color3.fromRGB(16, 31, 78),
+    accentcolor2 = Color3.fromRGB(255,182,193),
     outlinecolor = Color3.fromRGB(60, 60, 60),
     outlinecolor2 = Color3.fromRGB(0, 0, 0),
     sectorcolor = Color3.fromRGB(30, 30, 30),
